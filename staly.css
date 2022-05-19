@@ -1,0 +1,15 @@
+
+body{
+    background-color: #f7f2f7;
+    color:blue;
+    font-size:70px;
+    font-weight: 500;
+    font-family: 'Courier New', Courier, monospace;
+}
+h1{color:black;
+font-size: 150px;}
+.h{color: blueviolet;}
+.foto{ width: 750px;
+border-radius:  200px; }
+.h2{color: black;
+width:1000px;}
