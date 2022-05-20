@@ -1,0 +1,115 @@
+body{background:#2F4F4F;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    max-width: 65%;
+    margin: auto;
+}
+
+.cont{
+    margin-top: 25px;
+}
+.info{
+    margin-bottom: 25px;
+    text-align: center;
+    display: flex;
+}
+@media (max-width:700px ) {
+    .info {
+        display: block;
+    }
+}
+.ava{
+    
+    width: 250px;
+    border-radius: 25%;
+    box-shadow: 5px 5px 15px wheat;
+}
+.info-text{
+    margin-left: 40px;
+}
+.social{
+    text-align: center;
+    color: #000;
+    background:gray;
+    border-radius: 25px;
+    padding: 10px;
+    margin: 15px;
+}
+.social a {
+    text-decoration: none;
+    color: #000;
+}
+.zag1{
+    text-align: center;
+    
+}
+.hoby{
+    color: #000;
+    background:gray;
+    border-radius: 25px;
+    padding: 5px;
+    margin: 15px;
+}
+.hoby li {
+    margin-bottom: -15px;
+}
+.knowing{
+    color: #000;
+    background:gray;
+    border-radius: 25px;
+    padding: 5px;
+    margin: 15px;
+}
+.knowing li{
+    margin-bottom: -15px;
+}
+.exp{
+    text-align: center;
+    color: #000;
+    background:gray;
+    border-radius: 25px;
+    padding: 5px;
+    margin: 15px;
+}
+.exp h4{
+    text-decoration: underline;
+}
+.sms2 label{
+    display: block;
+}
+
+.sms2 input,.sms2 textarea{
+    
+    width: 100%;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 1px solid black;
+    padding: 15px 0 15px;
+    font-family: inherit;
+    outline: none;
+    background: initial;
+    transition: 0.5s;
+}
+.sms2 textarea:hover{
+    border-radius: 20px;
+    transition: 0.75s;
+    background:  gainsboro;
+}
+.sms2 input:hover{
+    border-radius: 20px;
+    transition: 0.75s;
+    background:  gainsboro;
+}
+.btn{ 
+    
+    padding: 15px 20px;
+    color: white;
+    background: #000;
+    border: none;
+    font-family: inherit;
+    cursor: pointer;
+    transition: 0.5s;
+}
+.btn:hover{ 
+    transition: 0,5;
+    border-radius: 15px;
+}
