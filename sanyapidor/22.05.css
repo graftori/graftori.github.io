@@ -9,7 +9,7 @@ body{
     border-radius: 15px;
     padding: 0px 5px;
     text-align: center;
-    max-width: 20%;
+    max-width: 20% ;margin: auto;
 }
 .cont{
     margin-top: 20px;
