@@ -1,0 +1,31 @@
+body{
+    background-color: brown;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    max-width: 35%;
+    margin: auto;
+}
+.pick{
+    width: 500px;
+    height: 500px;
+    border-radius:5%;
+    box-shadow: 10px 10px 20px wheat;
+}
+.s1{
+    background-color: green;
+    text-align: center;
+    text-transform: uppercase;
+    color:whitesmoke;
+}
+.s2{
+color: gold;
+background-color: black;
+border-radius: 15px;
+padding: 5px;
+}
+
+   
+
+
+    
+
+
