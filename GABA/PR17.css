@@ -1,0 +1,11 @@
+body{
+    background-color: brown;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.pivo{
+    width: 200px;
+    height: 100px;
+    background: linear-gradient( to left, yellowgreen, grey );
+    border-radius: 20%;
+    cursor:crosshair;
+}
