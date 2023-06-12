@@ -1,11 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,100&display=swap');
 body{
-    background-color: brown;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: gainsboro;
+    font-family:Roboto ;
 }
 .pivo{
     width: 200px;
     height: 100px;
-    background: linear-gradient( to left, yellowgreen, grey );
+    background: linear-gradient(red, orange, yellow, green, blue,purple );
     border-radius: 20%;
     cursor:crosshair;
+    transition: 0.5s;
+}
+.pivo:hover{ 
+    transition: 1,5;
+    border-radius: 100%;
+    box-shadow: 10px 10px 10px coral;
 }
